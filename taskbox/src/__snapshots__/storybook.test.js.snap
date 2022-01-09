@@ -1,5 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Storyshots PureInboxScreen Default 1`] = `null`;
+
+exports[`Storyshots PureInboxScreen Error 1`] = `null`;
+
 exports[`Storyshots PureTaskList Default 1`] = `
 <div
   style={
